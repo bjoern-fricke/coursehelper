@@ -1,5 +1,5 @@
 # coursehelper
-A java swing application to assist instructors with assigning students to group projects at Northeastern Wisconsin Technical Project
+A java swing application to assist instructors with assigning students to group projects at Northeastern Wisconsin Technical College
 
 This was my final project for my Java II course, using a SQLite database to show simple CRUD and sorting operations
 
