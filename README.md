@@ -11,4 +11,10 @@ Features:
 - Random Order
 - Group Size
 
+# TODOS
+- Refactor DB methods into data layer
+- Extend functionality to allow import of txt-files
 
+# Future Improvements
+- Integrate Blackboard import of course by using RestFul API
+- Integrate Active Directory and create user account management
